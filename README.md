@@ -1,11 +1,11 @@
-# 📱Aplicativo Móvel Ionic + Angular | MobileFakeStore
+# Aplicativo Móvel Ionic + Angular | MobileFakeStore
 
 Aplicativo móvel desenvolvido com **Ionic** e **Angular**, consumindo dados da [Fake Store API](https://fakestoreapi.com).
 O app simula uma loja virtual, exibindo produtos, seus detalhes e informações do autor do projeto.
 
 ---
 
-## 🧾 Descrição do projeto
+##  Descrição do projeto
 
 Este projeto foi desenvolvido como parte de uma avaliação acadêmica com foco em desenvolvimento mobile. A aplicação utiliza o template `tabs` do Ionic e consome dados da Fake Store API, apresentando uma interface intuitiva com três seções principais:
 
@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte de uma avaliação acadêmica com foco 
 
 ---
 
-## 💻 Pré-requisitos
+##  Pré-requisitos
 
 Antes de iniciar o projeto, certifique-se de ter instalado:
 
@@ -29,7 +29,7 @@ Antes de iniciar o projeto, certifique-se de ter instalado:
 
 ---
 
-## 📥 Como baixar
+##  Como baixar
 
 ```bash
 # Clone este repositório
@@ -60,7 +60,7 @@ npx cap sync
 npx cap open android # ou ios
 ```
 ---
-## 🤝 Contribuindo com o projeto
+##  Contribuindo com o projeto
 Projeto desenvolvido individualmente como atividade avaliativa. No entanto, sugestões ou estudos colaborativos são bem-vindos!
 
 1. Faça um fork
@@ -72,7 +72,7 @@ Projeto desenvolvido individualmente como atividade avaliativa. No entanto, suge
 
 ---
 
-## 👩‍💻 Autor
+##  Autor
 
 | Nome              | Curso                                    | Contato                                                  |
 | ----------------- | ---------------------------------------- | -------------------------------------------------------- |
