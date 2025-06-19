@@ -1,4 +1,4 @@
-# Aplicativo Móvel Ionic + Angular | MobileFakeStore
+# Aplicativo Móvel/Desktop Ionic + Angular | MobileFakeStore
 
 Aplicativo móvel desenvolvido com **Ionic** e **Angular**, consumindo dados da [Fake Store API](https://fakestoreapi.com).
 O app simula uma loja virtual, exibindo produtos, seus detalhes e informações do autor do projeto.
@@ -87,4 +87,6 @@ Consulte o arquivo LICENSE para maiores detalhes.
 ---
 
 ## 🖼️ Imagens do Projeto - GIF
-As 5 imagens mínimas solicitadas no projeto foram direcionadas a um GIF interativo acima do texto como forma de apresentação prévia ao interessado.
+As 5 imagens mínimas solicitadas no projeto foram direcionadas a um GIF interativo como forma de apresentação ao interessado.
+
+![GIF](https://github.com/user-attachments/assets/58f18c26-bbe0-4c4d-9f01-80b95fc918be)
